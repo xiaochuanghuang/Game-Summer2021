@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\PersonalProject\\Game-Summer2021\\GameDemo\\Source\\GameDemo\\GameDemo.Build.cs",
+		"D:\\PersonalProject\\Game-Summer2021\\GameDemo\\Source\\GameDemo.Target.cs",
+		"D:\\PersonalProject\\Game-Summer2021\\GameDemo\\Source\\GameDemoEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
